@@ -60,17 +60,26 @@ Sadly outsource has no more mysteries for me as a regular manual tester, hence w
 * [QA Guide to Web Application Testing for Beginners](https://www.udemy.com/course/qa-guide-to-web-application-testing-for-beginners) (Not started yet)
 * [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp) (Future plans)
 
-## Groups for knowledge gathering:
-
 ## My Test Documentation:
 - (In progress)
 
-## My projects:
+## Groups for news/knowledge gathering:
+* [Ministry of Testing Community](https://www.linkedin.com/company/ministry-of-testing/))
+* [Excel - Best Tips and Tricks](https://www.linkedin.com/newsletters/7094586668371861504/)
+* [Just Geek IT](https://www.linkedin.com/newsletters/7137376464013819904/)
+* [Software Testing](https://www.linkedin.com/showcase/skills-software-testing/posts/?feedView=all)
+* [Testuj.pl](https://www.youtube.com/@testujplcommunity)
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Projects:
+* [Overcooked! All You Can Eat](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/) -> Included in credits
+* [Hokko Life](https://store.steampowered.com/app/824000/Hokko_Life/) -> Got a special thanks for finding a critical bug near the release date
+* [Greak: Memories of Azur](https://store.steampowered.com/app/1311070/Greak_Memories_of_Azur/) -> Helped testing release candidate builds
+* [World of Warcraft: Dragonflight](https://eu.shop.battle.net/en-us/product/world-of-warcraft-dragonflight) -> Worked over a year on the project
+* [Star Wars: Hunters](https://starwarshunters.com/)
+* Unannounced AAA mobile project (Android, iOS)
+* Unannounced AAA multiplatform project (PC, iOS, Android)
+
+
 
 <!---
 michalbakan/michalbakan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
