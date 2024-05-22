@@ -61,8 +61,8 @@ Sadly outsource has no more mysteries for me as a regular manual tester, hence w
 * [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp) (Future plans)
 
 ## My Test Documentation:
-- [PokeNexus Test Scenarios](https://trello.com/b/bVZlXPXH/project-pno) (In progress)
-- [PokeNexus Test Cases](https://docs.google.com/spreadsheets/d/11AxRzU2hquQUN9eEt6WBWU0oYCf1KP9qp7O-p1Bg5mI/edit#gid=1968869249)
+- [PokeNexus Test Scenarios](https://trello.com/b/bVZlXPXH/project-pno) (In progress) /
+ [PokeNexus Test Cases](https://docs.google.com/spreadsheets/d/11AxRzU2hquQUN9eEt6WBWU0oYCf1KP9qp7O-p1Bg5mI/edit#gid=1968869249) (In progress)
 
 ## Groups for news/knowledge gathering:
 * [Ministry of Testing Community](https://www.linkedin.com/company/ministry-of-testing/))
