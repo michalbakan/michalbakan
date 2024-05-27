@@ -14,7 +14,7 @@ Currently working on creating a portfolio as well as strengthening my basics tha
 <hr/>
 
 ## <p align="center"> My Test Documentation:
-- [PokeNexus Test Scenarios](https://trello.com/b/bVZlXPXH/project-pno) (In progress) /
+- [PokeNexus Test Scenarios]([https://trello.com/b/bVZlXPXH/project-pno](https://trello.com/invite/przestrzenroboczauser08302287/ATTI91c800da9430637c813c6ef4f6e394d67EA525DB)) (In progress) /
  [PokeNexus Test Cases](https://docs.google.com/spreadsheets/d/11AxRzU2hquQUN9eEt6WBWU0oYCf1KP9qp7O-p1Bg5mI/edit#gid=1968869249) (In progress)
 
 ***
