@@ -81,7 +81,7 @@ Currently working on creating a portfolio as well as strengthening my basics tha
   - Jira
   - Test Case & Bug Report Writing
   - Trello
-  - Basics of Software Development Lifecycle models (V-model, Waterfall, Agile, Scrum
+  - Basics of Software Development Lifecycle models (V-model, Waterfall, Agile, Scrum)
   - Agile testing
   - Basics of Mobile testing
     
