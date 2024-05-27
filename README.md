@@ -9,12 +9,13 @@ Sadly outsource has no more mysteries for me as a regular manual tester, hence w
 
 - [LinkedIn](https://www.linkedin.com/in/micha%C5%82-bakan-b21513284)
 
-# What have I learnt so far:
+# What I have learnt so far:
 ## Issue & project trackers:
 * Jira
 * Redmine
 * TestRail
 * DevSuite
+* Trello
 
 ## Other tools:
 * MS Office
@@ -79,6 +80,8 @@ Sadly outsource has no more mysteries for me as a regular manual tester, hence w
 * [Star Wars: Hunters](https://starwarshunters.com/)
 * Unannounced AAA mobile project (Android, iOS)
 * Unannounced AAA multiplatform project (PC, iOS, Android)
+
+## Alpha/Beta/
 
 
 
