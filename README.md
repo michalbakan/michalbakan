@@ -107,7 +107,7 @@ Currently working on creating a portfolio as well as strengthening my basics tha
 * Unannounced AAA multiplatform project (PC, iOS, Android)
 
 ## <p align="center">Alpha/Beta/Playtests I have participated in:
-- Creatures of Ava - Playtests for 11 bit studio S.A. - 31.05.2024
+- **Creatures of Ava** - Playtests for **11 bit studio S.A.** - 31.05.2024
 
 
 
