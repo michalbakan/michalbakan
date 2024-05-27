@@ -85,10 +85,10 @@ Currently working on creating a portfolio as well as strengthening my basics tha
   - Agile testing
   - Basics of Mobile testing
     
-* [Testowanie Oprogramowania w praktyce | Bootcamp](https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp)
-* [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman) 
-* [QA Guide to Web Application Testing for Beginners](https://www.udemy.com/course/qa-guide-to-web-application-testing-for-beginners) 
-* [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp) 
+* [Testowanie Oprogramowania w praktyce | Bootcamp](https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp) (Starting soon)
+* [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman) (Starting soon)
+* [QA Guide to Web Application Testing for Beginners](https://www.udemy.com/course/qa-guide-to-web-application-testing-for-beginners) (Starting soon)
+* [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp) (Future plans)
 
 ## Groups for news/knowledge gathering:
 * [Ministry of Testing Community](https://www.linkedin.com/company/ministry-of-testing/))
