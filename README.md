@@ -40,11 +40,8 @@ Currently working on creating a portfolio as well as strengthening my basics tha
 * **Polish:** Native
 * **English:** communicative
 
-## TECH Skills:
-* **ISTQB CTFL knowledge**
-* Knowledge of **testing procedures** and the **creation of test documentation**
-
 ## Practical Knowledge / Skills as a Manual Tester:
+* ISTQB CTFL knowledge
 * Worked on Agile / Scrum oriented projects
 * Functional testing 
 * Confirmation testing
@@ -54,7 +51,7 @@ Currently working on creating a portfolio as well as strengthening my basics tha
 * Exploratory testing
 * Test execution
 * Compatibility testing
-* Creating Test Cases
+* Creating Test Scenarios / Test Cases
 * Maintaining Test Suite quality
 * Mentoring new testers
 * Working close with a developer teams
