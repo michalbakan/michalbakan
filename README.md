@@ -18,7 +18,7 @@ Currently working on creating/updating portfolio as well as strengthening my bas
  [PokeNexus Test Cases](https://docs.google.com/spreadsheets/d/11AxRzU2hquQUN9eEt6WBWU0oYCf1KP9qp7O-p1Bg5mI/edit#gid=1968869249) (In progress)
 
 ***
-# <p align="center">💡What I have learnt so far:
+# <p align="center">💡What I have learned so far:
 ## Issue & project trackers:
 * **Jira**
 * **Redmine**
