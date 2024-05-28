@@ -8,7 +8,7 @@ Why did I start testing? And why in gaming industry? As I was trying to find mys
 After working for almost 3 years in the industry I can tell that breaking games and finding defects that effectively fail test runs is what motivates me to work and self-improve. 
 Sadly outsource has no more mysteries for me as a regular manual tester, hence why I would love to try new things whether it is gaming or soft industry, I am open to learn new things and new challenges.
 
-Currently working on creating a portfolio as well as strengthening my basics thanks to the udemy courses (I will mention them below). Next step will be learning REST API (so basics of HTTP, XML, and JSON) and trying to add some practical, things containing that knowledge to the portfolio. In the future I also plan on learing SQL and gain basic knowledge of creating the websites.
+Currently working on creating/updating portfolio as well as strengthening my basics thanks to the udemy courses (I will mention them below). Next step will be learning REST API (so basics of HTTP, XML, and JSON) and trying to add some practical, things containing that knowledge to the portfolio. In the future I also plan on learing SQL and gain basic knowledge of creating the websites.
 
 ## <p align="center">[Visit me on LinkedIn](https://www.linkedin.com/in/micha%C5%82-bakan-b21513284)
 <hr/>
