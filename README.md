@@ -105,6 +105,7 @@ Currently working on creating/updating portfolio as well as strengthening my bas
 
 ## <p align="center">Alpha/Beta/Playtests I have participated in:
 - **Creatures of Ava** - Playtests for **11 bit studio S.A.** - 31.05.2024
+- **Frostpunk 2** - Playtests for **11 bit studio S.A.** - 27-29.06.2024
 
 
 
