@@ -82,11 +82,6 @@ Currently working on creating/updating portfolio as well as strengthening my bas
   - Agile testing
   - Basics of Mobile testing
     
-* [Software Testing in Practice ('Testowanie Oprogramowania w praktyce | Bootcamp')](https://www.udemy.com/course/testowanie-oprogramowania-w-praktyce-bootcamp) (Starting soon)
-* [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman) (Starting soon)
-* [QA Guide to Web Application Testing for Beginners](https://www.udemy.com/course/qa-guide-to-web-application-testing-for-beginners) (Starting soon)
-* [The Complete SQL Bootcamp: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp) (Future plans)
-
 ## Groups for news/knowledge gathering:
 * [Ministry of Testing Community](https://www.linkedin.com/company/ministry-of-testing/))
 * [Excel - Best Tips and Tricks](https://www.linkedin.com/newsletters/7094586668371861504/)
@@ -102,6 +97,7 @@ Currently working on creating/updating portfolio as well as strengthening my bas
 * [Star Wars: Hunters](https://starwarshunters.com/)
 * Unannounced AAA mobile project (Android, iOS)
 * Unannounced AAA multiplatform project (PC, iOS, Android)
+* AAA ongoing project (PC)
 
 ## <p align="center">Alpha/Beta/Playtests I have participated in:
 - **Creatures of Ava** - Playtests for **11 bit studio S.A.** - 31.05.2024
