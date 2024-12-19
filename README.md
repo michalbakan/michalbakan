@@ -35,6 +35,7 @@ Currently working on creating/updating portfolio as well as strengthening my bas
 * **MS teams**
 * **ShareX**
 * **Confluence**
+* **AccelByte Development Toolkit (ADT)** 
 
 ## Languages:
 * **Polish:** Native
@@ -100,8 +101,8 @@ Currently working on creating/updating portfolio as well as strengthening my bas
 * AAA ongoing project (PC)
 
 ## <p align="center">Alpha/Beta/Playtests I have participated in:
-- **Creatures of Ava** - Playtests for **11 bit studio S.A.** - 31.05.2024
-- **Frostpunk 2** - Playtests for **11 bit studio S.A.** - 27-29.06.2024
+- **Creatures of Ava** - Playtests for **11 bit studio S.A.** - 31.05.2024 -> Included in credits
+- **Frostpunk 2** - Playtests for **11 bit studio S.A.** - 27-29.06.2024 -> Included in credits
 
 
 
