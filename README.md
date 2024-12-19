@@ -98,7 +98,7 @@ Currently working on creating/updating portfolio as well as strengthening my bas
 * [Star Wars: Hunters](https://starwarshunters.com/)
 * Unannounced AAA mobile project (Android, iOS)
 * Unannounced AAA multiplatform project (PC, iOS, Android)
-* AAA ongoing project (PC)
+* Ongoing AAA project (PC)
 
 ## <p align="center">Alpha/Beta/Playtests I have participated in:
 - **Creatures of Ava** - Playtests for **11 bit studio S.A.** - 31.05.2024 -> Included in credits
