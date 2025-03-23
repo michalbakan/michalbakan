@@ -5,7 +5,7 @@
 👋 Hi, I’m Michał! An ambitious Tester with over 3 years of experience in manual testing.
 
 Why did I start testing? And why in the gaming industry? As I was trying to find myself in a world, I asked myself: “What do you like to do? What kind of work could make you closer to it?” That is how my journey with QA started. 
-After working for almost 3 years in the industry I can tell that breaking games and finding defects that effectively fail test runs is what motivates me to work and self-improve. 
+After working for over 3 years in the industry I can tell that breaking games and finding defects that effectively fail test runs is what motivates me to work and self-improve. 
 Sadly outsource has no more mysteries for me as a regular manual tester, hence why I would love to try new things whether it is gaming or soft industry, I am open to learn new things and new challenges.
 
 Currently working on creating/updating portfolio as well as strengthening my basics thanks to the udemy courses (I will mention them below). 
