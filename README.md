@@ -2,7 +2,7 @@
 
 ***
 ## <p align="center">🔍Something about me:
-👋 Hi, I’m Michał! An ambitious Tester with almost 3 years of experience in outsource testing.
+👋 Hi, I’m Michał! An ambitious Tester with over 3 years of experience in outsource testing.
 
 Why did I start testing? And why in the gaming industry? As I was trying to find myself in a world, I asked myself: “What do you like to do? What kind of work could make you closer to it?” That is how my journey with QA started. 
 After working for almost 3 years in the industry I can tell that breaking games and finding defects that effectively fail test runs is what motivates me to work and self-improve. 
