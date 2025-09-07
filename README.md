@@ -96,7 +96,7 @@ Currently I am working on creating/updating portfolio as well as strengthening m
 * [Star Wars: Hunters](https://starwarshunters.com/)
 * Unannounced AAA mobile project (Android, iOS)
 * Unannounced AAA multiplatform project (PC, iOS, Android)
-* [Midseye]([https://starwarshunters.com/](https://store.steampowered.com/app/3265250/MindsEye/)) (PC)
+* [Midseye](https://store.steampowered.com/app/3265250/MindsEye/) (PC)
 * AAA MMORPG project (PC)
 * AAA Ongoing project (PC, XSX, PS5)
 
