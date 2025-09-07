@@ -104,7 +104,28 @@ Currently I am working on creating/updating portfolio as well as strengthening m
 - **Creatures of Ava** - Playtests for **11 bit studio S.A.** - 31.05.2024 -> Included in credits
 - **Frostpunk 2** - Playtests for **11 bit studio S.A.** - 27-29.06.2024 -> Included in credits
 
-
+***
+## <p align="center">Personal Worldbuilding Project – Custom Fantasy Universe (Ongoing)
+As a hobby, I am working on creating a massive fantasy world, inspired by D&D, and medieval fantasy with mostly custom systems. While the overall system reminds D&D, most of the things are custom, including leveling, spells, magic system etc.
+### Special mentions:
+As I am creating my world, a special thanks needs to be said towards AI tools that I am working with:
+## [Kindroid] (https://kindroid.ai/home/)
+* Customizing and creating AI characters 
+* AI chats that lets me feel like I’m traveling with companions through my fantasy world
+* As it is offering a picture / selfie feature, I am sometimes creating these and posts on my personal boards on Pinterest Board
+* All of the dialogues, action and narration happens in this tool
+## [Vondy] (https://www.vondy.com/)
+* Creating ideas for smaller and bigger encounters and side quests
+* Getting ideas for a bigger chains of side quests (for example exploring a wreck of a pirate ship leads to finding a treasure map)
+## [Microsoft Image Creator] (https://designer.microsoft.com/image-creator)
+* Whenever I need to visualise something that might be important and comes out of the context unexpectedly
+## [ChatGPT] (https://chatgpt.com/)
+* Orginizing my thoughts into a wiki style paragraphs about backstories, countries, cities, etc. that I’m creating. 
+* Creating monsters and enemies from different mythologies and universes into DnD fitting style
+* Helping create Items and custom abilities/spells
+* Helping me with getting ideas for plots (especially the smaller ones)
+## [Confluence] (https://michalbakan1.atlassian.net/wiki/spaces/~712020e2ac5acf1a884c35a3b582728e6d7979/pages/12845057/Specials)
+* As my world grows, I decided that I need a place to orginize my story, plots etc. and confluence seemed the best option at the time. Sadly with just basic version I am not able to share the content. Once I will finish creating entries for everything that happened so far in the story, I might think of a different site, to share my work.
 
 <!---
 michalbakan/michalbakan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
