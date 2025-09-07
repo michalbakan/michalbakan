@@ -89,11 +89,11 @@ Currently I am working on creating/updating portfolio as well as strengthening m
 * [Testuj.pl](https://www.youtube.com/@testujplcommunity)
 
 ## Projects:
-* [Overcooked! All You Can Eat](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/) -> Included in credits
-* [Hokko Life](https://store.steampowered.com/app/824000/Hokko_Life/) -> Got a special thanks for finding a critical bug near the release date
-* [Greak: Memories of Azur](https://store.steampowered.com/app/1311070/Greak_Memories_of_Azur/) -> Helped testing release candidate builds
-* [World of Warcraft: Dragonflight](https://eu.shop.battle.net/en-us/product/world-of-warcraft-dragonflight) -> Worked over a year on the project where I have trained many new testers alongside regular testing
-* [Star Wars: Hunters](https://starwarshunters.com/)
+* [Overcooked! All You Can Eat](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/) (PC, XB1, PS4, Switch) -> Included in credits
+* [Hokko Life](https://store.steampowered.com/app/824000/Hokko_Life/) (PC) -> Got a special thanks for finding a critical bug near the release date
+* [Greak: Memories of Azur](https://store.steampowered.com/app/1311070/Greak_Memories_of_Azur/) (PC, PS5, XSX)-> Helped testing release candidate builds
+* [World of Warcraft: Dragonflight](https://eu.shop.battle.net/en-us/product/world-of-warcraft-dragonflight) (PC) -> Worked over a year on the project where I have trained many new testers alongside regular testing
+* [Star Wars: Hunters](https://starwarshunters.com/) (Android, iOS, Switch)
 * Unannounced AAA mobile project (Android, iOS)
 * Unannounced AAA multiplatform project (PC, iOS, Android)
 * [Midseye](https://store.steampowered.com/app/3265250/MindsEye/) (PC)
