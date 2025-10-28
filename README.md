@@ -23,7 +23,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 - 💪 Strengthening fundamentals through **Udemy courses**
 - 🧙‍♂️ Developing a **custom fantasy world** as a hobby — with the help of various AI tools
 
-📎 [Visit my LinkedIn](#) *(Add your link here)*
+📎 [Visit my LinkedIn](#) (https://trello.com/b/bVZlXPXH/project-pno)
 
 ---
 
@@ -190,6 +190,4 @@ I’m a detail-oriented **Game and Software Tester** with:
 [💼 LinkedIn](#) | [🐙 GitHub](#) | [📧 Email Me](#)
 
 ---
-
-> *“Quality means doing it right even when no one is looking.” – Henry Ford*
 
