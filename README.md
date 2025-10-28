@@ -128,8 +128,8 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 | **Unannounced AAA Mobile Project** | Android, iOS | 
 | **Unannounced AAA Multiplatform Project** | PC, iOS, Android | 
 | **[Midseye](https://store.steampowered.com/app/3265250/MindsEye/)** | PC | 
-| **Unannounced AAA MMORPG Project** | PC | QA Testing |
-| **[Dying Light: The Beast](https://store.steampowered.com/app/3008130/Dying_Light_The_Beast/)** | PC, XSX, PS5 | 
+| **Unannounced AAA MMORPG Project** | PC |
+| **[Dying Light: The Beast](https://store.steampowered.com/app/3008130/Dying_Light_The_Beast/)** | PC, XSX, PS5 |
 
 ---
 
