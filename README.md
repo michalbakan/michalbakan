@@ -185,10 +185,6 @@ I’m a detail-oriented **Game and Software Tester** with:
 - Proven work on **AAA projects and indie titles**  
 - A strong desire to grow and innovate  
 
----
-
-<p align="center"> **Let’s Connect!**  
-[LinkedIn](https://www.linkedin.com/in/micha%C5%82-bakan-b21513284)
 
 ---
 
