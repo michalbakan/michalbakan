@@ -29,7 +29,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ## 🧪 Test Documentation
 
-- **PokeNexus Test Scenarios** *(In progress)*  
+- **[PokeNexus Test Scenarios](https://trello.com/b/bVZlXPXH/project-pno)** *(In progress)*  
 - **PokeNexus Test Cases** *(In progress)*
 
 ---
