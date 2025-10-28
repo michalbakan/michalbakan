@@ -1,11 +1,11 @@
-# 🎮 SOFTWARE / GAME TESTER PORTFOLIO
+# SOFTWARE / GAME TESTER PORTFOLIO
 
-## 🔍 About Me
+##  About Me
 
 👋 Hi, I’m **Michał!**  
 An ambitious **Manual Tester** with over **3 years of experience** in QA and a strong passion for games and software quality.
 
-### 💬 Why Testing? Why Games?
+### Why Testing? Why Games?
 
 As I was trying to find my path, I asked myself:  
 > “What do you like to do? What kind of work could bring you closer to it?”
@@ -17,17 +17,17 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-## 🧭 Currently Working On
+## Currently Working On
 
-- 🎯 Building & updating my **testing portfolio**
-- 💪 Strengthening fundamentals through **Udemy courses**
-- 🧙‍♂️ Developing a **custom fantasy world** as a hobby — with the help of various AI tools
+-  Building & updating my **testing portfolio**
+-  Strengthening fundamentals through **Udemy courses**
+-  Developing a **custom fantasy world** as a hobby — with the help of various AI tools
 
 📎 [Visit my LinkedIn](https://www.linkedin.com/in/micha%C5%82-bakan-b21513284)
 
 ---
 
-## 🧪 Test Documentation
+##  Test Documentation
 
 - **[PokeNexus Test Scenarios](https://trello.com/b/bVZlXPXH/project-pno)** *(In progress)*  
 - **[PokeNexus Test Cases](https://docs.google.com/spreadsheets/d/11AxRzU2hquQUN9eEt6WBWU0oYCf1KP9qp7O-p1Bg5mI/edit#gid=1968869249)** *(In progress)*
@@ -36,14 +36,14 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ## 💡 What I Have Learned So Far
 
-### 🧰 Issue & Project Trackers
+### Issue & Project Trackers
 - Jira  
 - Redmine  
 - TestRail  
 - DevSuite  
 - Trello  
 
-### ⚙️ Other Tools
+### Other Tools
 - MS Office  
 - Xbox Manager (XB1, XSS/XSX)  
 - Target Manager (PS4, PS5)  
@@ -54,13 +54,13 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 - Confluence  
 - AccelByte Development Toolkit (ADT)  
 
-### 🌐 Languages
+### Languages
 - 🇵🇱 **Polish** – Native  
 - 🇬🇧 **English** – Communicative  
 
 ---
 
-## 🧩 Practical Knowledge / Skills
+## Practical Knowledge / Skills
 
 - 📘 ISTQB CTFL knowledge  
 - 💼 Agile / Scrum-oriented project experience  
@@ -77,7 +77,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-## 💬 Soft Skills
+## Soft Skills
 
 | Skill | Description |
 |-------|--------------|
@@ -93,7 +93,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-## 🎓 Courses
+## Courses
 
 - **[The Complete 2024 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp)** *(In progress)*  
 - Basic Concepts of Software Testing  
@@ -106,7 +106,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-## 🧠 Communities & Knowledge Sources
+## Communities & Knowledge Sources
 
 * [Ministry of Testing Community](https://www.linkedin.com/company/ministry-of-testing/))
 * [Excel - Best Tips and Tricks](https://www.linkedin.com/newsletters/7094586668371861504/)
@@ -116,24 +116,24 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-## 🧩 Projects
+## Projects
 
 | Project | Platform | Role / Note |
 |----------|-----------|-------------|
-| **[Overcooked! All You Can Eat](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/)** | PC, XB1, PS4, Switch | Included in credits |
-| **[Hokko Life](https://store.steampowered.com/app/824000/Hokko_Life/)** | PC | Special thanks for finding a critical bug pre-release |
-| **[Greak: Memories of Azur](https://store.steampowered.com/app/1311070/Greak_Memories_of_Azur/)** | PC, PS5, XSX | Tested release candidate builds |
-| **[World of Warcraft: Dragonflight](https://eu.shop.battle.net/en-us/product/world-of-warcraft-dragonflight)** | PC | Over a year on project, trained new testers |
-| **[Star Wars: Hunters](https://starwarshunters.com/)** | Android, iOS, Switch | QA Testing |
-| **Unannounced AAA Mobile Project** | Android, iOS | QA Testing |
-| **Unannounced AAA Multiplatform Project** | PC, iOS, Android | QA Testing |
-| **[Midseye](https://store.steampowered.com/app/3265250/MindsEye/)** | PC | QA Testing |
+| **[Overcooked! All You Can Eat](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/)** | PC, XB1, PS4, Switch | 
+| **[Hokko Life](https://store.steampowered.com/app/824000/Hokko_Life/)** | PC | 
+| **[Greak: Memories of Azur](https://store.steampowered.com/app/1311070/Greak_Memories_of_Azur/)** | PC, PS5, XSX | 
+| **[World of Warcraft: Dragonflight](https://eu.shop.battle.net/en-us/product/world-of-warcraft-dragonflight)** | PC | 
+| **[Star Wars: Hunters](https://starwarshunters.com/)** | Android, iOS, Switch | 
+| **Unannounced AAA Mobile Project** | Android, iOS | 
+| **Unannounced AAA Multiplatform Project** | PC, iOS, Android | 
+| **[Midseye](https://store.steampowered.com/app/3265250/MindsEye/)** | PC | 
 | **Unannounced AAA MMORPG Project** | PC | QA Testing |
-| **[Dying Light: The Beast](https://store.steampowered.com/app/3008130/Dying_Light_The_Beast/)** | PC, XSX, PS5 | QA Testing |
+| **[Dying Light: The Beast](https://store.steampowered.com/app/3008130/Dying_Light_The_Beast/)** | PC, XSX, PS5 | 
 
 ---
 
-## 🧪 Alpha / Beta / Playtests
+##  Alpha / Beta / Playtests
 
 | Game | Date | Studio | Credit |
 |------|------|---------|--------|
@@ -142,41 +142,41 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-## 🌍 Personal Worldbuilding Project
+##  Personal Worldbuilding Project
 
 As a hobby, I’m developing a **custom fantasy world** inspired by *Dungeons & Dragons* and *medieval fantasy*, featuring:
-- 🧙‍♂️ Original leveling, spell, and magic systems  
-- 🏰 Custom nations, lore, and storylines  
-- 🎭 Fully unique world mechanics  
+-  Original leveling, spell, and magic systems  
+-  Custom nations, lore, and storylines  
+- Fully unique world mechanics  
 
 ---
 
-## 🤖 Special Mentions – Tools That Help Me Build Worlds
+## Special Mentions – Tools That Help Me Build Worlds
 
-### 🧠 [Kindroid](https://kindroid.ai/home/)
+### [Kindroid](https://kindroid.ai/home/)
 - AI-based character creation & customization  
 - Interactive narrative-style chats  
 - Visual “selfie” feature for immersive storytelling  
 
-### ⚔️ [Vondy](https://www.vondy.com/)
+### [Vondy](https://www.vondy.com/)
 - Idea generation for encounters & side quests  
 - Helps design quest chains (e.g., pirate ship → treasure map)  
 
-### 🖼️ [Microsoft Image Creator](https://designer.microsoft.com/image-creator)
+### [Microsoft Image Creator](https://designer.microsoft.com/image-creator)
 - Visualizing unexpected or spontaneous ideas  
 
-### 💬 [ChatGPT](https://chatgpt.com/)
+### [ChatGPT](https://chatgpt.com/)
 - Organizing world lore into wiki-style pages  
 - Creating monsters, items, and abilities  
 - Brainstorming plots and smaller story arcs  
 
-### 📘 [Confluence](https://michalbakan1.atlassian.net/wiki/spaces/~712020e2ac5acf1a884c35a3b582728e6d7979/pages/12845057/Specials)
+### [Confluence](https://michalbakan1.atlassian.net/wiki/spaces/~712020e2ac5acf1a884c35a3b582728e6d7979/pages/12845057/Specials)
 - Used to structure and store lore & storylines  
 - Planning to migrate to a public platform once complete  
 
 ---
 
-## 🏁 Summary
+## Summary
 
 I’m a detail-oriented **Game and Software Tester** with:
 - 3+ years of experience  
@@ -186,8 +186,8 @@ I’m a detail-oriented **Game and Software Tester** with:
 
 ---
 
-📫 **Let’s Connect!**  
-[💼 LinkedIn](https://www.linkedin.com/in/micha%C5%82-bakan-b21513284)
+**Let’s Connect!**  
+[LinkedIn](https://www.linkedin.com/in/micha%C5%82-bakan-b21513284)
 
 ---
 
