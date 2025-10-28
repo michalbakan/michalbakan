@@ -17,7 +17,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-## Currently Working On
+## <p align="center"> Currently Working On
 
 -  Building & updating my **testing portfolio**
 -  Strengthening fundamentals through **Udemy courses**
@@ -27,14 +27,14 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-##  Test Documentation
+## <p align="center"> Test Documentation
 
 - **[PokeNexus Test Scenarios](https://trello.com/b/bVZlXPXH/project-pno)** *(In progress)*  
 - **[PokeNexus Test Cases](https://docs.google.com/spreadsheets/d/11AxRzU2hquQUN9eEt6WBWU0oYCf1KP9qp7O-p1Bg5mI/edit#gid=1968869249)** *(In progress)*
 
 ---
 
-## What I Have Learned So Far
+## <p align="center"> What I Have Learned So Far
 
 ### Issue & Project Trackers
 - Jira  
@@ -54,13 +54,13 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 - Confluence  
 - AccelByte Development Toolkit (ADT)  
 
-### Languages
+### <p align="center"> Languages
 - 🇵🇱 **Polish** – Native  
 - 🇬🇧 **English** – Communicative  
 
 ---
 
-## Practical Knowledge / Skills
+## <p align="center"> Practical Knowledge / Skills
 
 - 📘 ISTQB CTFL knowledge  
 - 💼 Agile / Scrum-oriented project experience  
@@ -77,7 +77,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-## Soft Skills
+## <p align="center"> Soft Skills
 
 | Skill | Description |
 |-------|--------------|
@@ -93,7 +93,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-## Courses
+## <p align="center"> Courses
 
 - **[The Complete 2024 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp)** *(In progress)*  
 - Basic Concepts of Software Testing  
@@ -106,7 +106,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-## Communities & Knowledge Sources
+## <p align="center"> Communities & Knowledge Sources
 
 * [Ministry of Testing Community](https://www.linkedin.com/company/ministry-of-testing/))
 * [Excel - Best Tips and Tricks](https://www.linkedin.com/newsletters/7094586668371861504/)
@@ -116,7 +116,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-## Projects
+## <p align="center"> Projects
 
 | Project | Platform |
 |----------|-----------|
@@ -134,7 +134,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-##  Alpha / Beta / Playtests
+##  <p align="center"> Alpha / Beta / Playtests
 
 | Game | Date | Studio | Credit |
 |------|------|---------|--------|
@@ -143,7 +143,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-##  Personal Worldbuilding Project
+##  <p align="center"> Personal Worldbuilding Project
 
 As a hobby, I’m developing a **custom fantasy world** inspired by *Dungeons & Dragons* and *medieval fantasy*, featuring:
 -  Original leveling, spell, and magic systems  
@@ -152,7 +152,7 @@ As a hobby, I’m developing a **custom fantasy world** inspired by *Dungeons & 
 
 ---
 
-## Special Mentions – Tools That Help Me Build Worlds
+## <p align="center"> Special Mentions – Tools That Help Me Build Worlds
 
 ### [Kindroid](https://kindroid.ai/home/)
 - AI-based character creation & customization  
@@ -177,7 +177,7 @@ As a hobby, I’m developing a **custom fantasy world** inspired by *Dungeons & 
 
 ---
 
-## Summary
+## <p align="center"> Summary
 
 I’m a detail-oriented **Game and Software Tester** with:
 - 3+ years of experience  
@@ -187,7 +187,7 @@ I’m a detail-oriented **Game and Software Tester** with:
 
 ---
 
-**Let’s Connect!**  
+<p align="center"> **Let’s Connect!**  
 [LinkedIn](https://www.linkedin.com/in/micha%C5%82-bakan-b21513284)
 
 ---
