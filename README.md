@@ -23,7 +23,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 - 💪 Strengthening fundamentals through **Udemy courses**
 - 🧙‍♂️ Developing a **custom fantasy world** as a hobby — with the help of various AI tools
 
-📎 [Visit my LinkedIn](#) (https://trello.com/b/bVZlXPXH/project-pno)
+📎 [Visit my LinkedIn](https://www.linkedin.com/in/micha%C5%82-bakan-b21513284)
 
 ---
 
