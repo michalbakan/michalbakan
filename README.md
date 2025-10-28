@@ -187,7 +187,7 @@ I’m a detail-oriented **Game and Software Tester** with:
 ---
 
 📫 **Let’s Connect!**  
-[💼 LinkedIn](#) | [🐙 GitHub](#) | [📧 Email Me](#)
+[💼 LinkedIn](https://www.linkedin.com/in/micha%C5%82-bakan-b21513284)
 
 ---
 
