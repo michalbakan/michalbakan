@@ -34,7 +34,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ---
 
-## 💡 What I Have Learned So Far
+## What I Have Learned So Far
 
 ### Issue & Project Trackers
 - Jira  
