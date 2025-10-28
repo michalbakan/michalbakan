@@ -118,8 +118,8 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ## Projects
 
-| Project | Platform | Role / Note |
-|----------|-----------|-------------|
+| Project | Platform |
+|----------|-----------|
 | **[Overcooked! All You Can Eat](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/)** | PC, XB1, PS4, Switch | 
 | **[Hokko Life](https://store.steampowered.com/app/824000/Hokko_Life/)** | PC | 
 | **[Greak: Memories of Azur](https://store.steampowered.com/app/1311070/Greak_Memories_of_Azur/)** | PC, PS5, XSX | 
