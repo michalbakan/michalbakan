@@ -120,16 +120,17 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 | Project | Platform |
 |----------|-----------|
+| **[World of Warcraft: Dragonflight](https://eu.shop.battle.net/en-us/product/world-of-warcraft-dragonflight)** | PC | 
+| **[Dying Light: The Beast](https://store.steampowered.com/app/3008130/Dying_Light_The_Beast/)** | PC, XSX, PS5 |
+| **[Midseye](https://store.steampowered.com/app/3265250/MindsEye/)** | PC | 
 | **[Overcooked! All You Can Eat](https://store.steampowered.com/app/1243830/Overcooked_All_You_Can_Eat/)** | PC, XB1, PS4, Switch | 
+| **[Star Wars: Hunters](https://starwarshunters.com/)** | Android, iOS, Switch | 
 | **[Hokko Life](https://store.steampowered.com/app/824000/Hokko_Life/)** | PC | 
 | **[Greak: Memories of Azur](https://store.steampowered.com/app/1311070/Greak_Memories_of_Azur/)** | PC, PS5, XSX | 
-| **[World of Warcraft: Dragonflight](https://eu.shop.battle.net/en-us/product/world-of-warcraft-dragonflight)** | PC | 
-| **[Star Wars: Hunters](https://starwarshunters.com/)** | Android, iOS, Switch | 
 | **Unannounced AAA Mobile Project** | Android, iOS | 
 | **Unannounced AAA Multiplatform Project** | PC, iOS, Android | 
-| **[Midseye](https://store.steampowered.com/app/3265250/MindsEye/)** | PC | 
 | **Unannounced AAA MMORPG Project** | PC |
-| **[Dying Light: The Beast](https://store.steampowered.com/app/3008130/Dying_Light_The_Beast/)** | PC, XSX, PS5 |
+
 
 ---
 
