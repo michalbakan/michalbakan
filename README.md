@@ -36,14 +36,14 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ## <p align="center"> What I Have Learned So Far
 
-### Issue & Project Trackers
+### <p align="center"> Issue & Project Trackers
 - Jira  
 - Redmine  
 - TestRail  
 - DevSuite  
 - Trello  
 
-### Other Tools
+### <p align="center"> Other Tools
 - MS Office  
 - Xbox Manager (XB1, XSS/XSX)  
 - Target Manager (PS4, PS5)  
