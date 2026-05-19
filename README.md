@@ -3,7 +3,7 @@
 ##  <p align="center"> About Me
 
 👋 Hi, I’m **Michał!**  
-An ambitious **Manual Tester** with over **3 years of experience** in QA and a strong passion for games and software quality.
+An ambitious **Manual Tester** with over **4 years of experience** in QA and a strong passion for games and software quality.
 
 ### Why Testing? Why Games?
 
