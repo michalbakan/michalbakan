@@ -95,7 +95,7 @@ I’m always open to **new challenges**, eager to **learn new tools**, and ready
 
 ## <p align="center"> Courses
 
-- **[The Complete 2024 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp)** *(In progress)*  
+**[The Complete 2024 Software Testing Bootcamp](https://www.udemy.com/course/testerbootcamp)** *(In progress):*  
 - Basic Concepts of Software Testing  
 - Jira  
 - Test Case & Bug Report Writing  
