@@ -184,7 +184,7 @@ As a hobby, I’m developing a **custom fantasy world** inspired by *Dungeons & 
 ## <p align="center"> Summary
 
 I’m a detail-oriented **Game and Software Tester** with:
-- 3+ years of experience  
+- 4+ years of experience  
 - A passion for quality and creativity  
 - Proven work on **AAA projects and indie titles**  
 - A strong desire to grow and innovate  
